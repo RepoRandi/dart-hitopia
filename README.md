@@ -118,6 +118,7 @@ Soal:
 2. Berapa ukuran kompleksitas kodinganmu? Jelaskan detail kompleksitas jawaban No.3, cantumkan di README Repo!
 
 Jawaban:
+
 1.
 - Fungsi isBalanced menggunakan struktur data stack untuk melacak bracket buka yang belum ditutup.
 - Iterasi melalui string, dan jika karakter saat ini adalah bracket buka, tambahkan ke stack. Jika karakter adalah bracket tutup, cocokkan dengan bracket buka terakhir di stack.
