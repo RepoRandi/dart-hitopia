@@ -3,19 +3,22 @@
 Sebelum mengerjakan HARAP MEMBACA ATURAN di bawah ini!
 
 🚀 ATURAN SUBMIT:
-Terdapat 3 soal Problem Solving dengan score masing-masing di section berikutnya.
-Buat pemanggilan fungsi tiap soal dengan 3 Input berbeda.
-Submit jawaban cukup memasukkan link github/gitlab di field Link GitHub/GitLab pada halaman terakhir form.
-Link GitHub dan GitLab yang disubmit  mencakup 1 repo berisi 3 file kode(3 jawaban) dan screenshot output.
-Batas waktu submit: 24 jam setelah menerima link test.
+
+- Terdapat 3 soal Problem Solving dengan score masing-masing di section berikutnya.
+- Buat pemanggilan fungsi tiap soal dengan 3 Input berbeda.
+- Submit jawaban cukup memasukkan link github/gitlab di field Link GitHub/GitLab pada halaman terakhir form.
+- Link GitHub dan GitLab yang disubmit  mencakup 1 repo berisi 3 file kode(3 jawaban) dan screenshot output.
+- Batas waktu submit: 24 jam setelah menerima link test.
 
 🤖 ATURAN ROLE & LANGUAGE:
-BE/FE/Fullstack: JS/PHP/Go/Java/C#
-Mobile: Kotlin/Swift/Java
+
+- BE/FE/Fullstack: JS/PHP/Go/Java/C#
+- Mobile: Kotlin/Swift/Java/Dart
 
 Jika ditemukan KETIDAKSESUAIAN dengan ATURAN di atas, maka akan mendapat pengurangan poin.
 
 Pertama, sebelum mengerjakan soal tes alangkah baiknya berdoa terlebih dahulu. 🙏
+
 Selamat mengerjakan dan semoga lancar! 👍
 
 ---
