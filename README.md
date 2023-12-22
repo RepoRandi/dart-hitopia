@@ -50,6 +50,7 @@ Soal:
 Buat fungsi untuk menyelesaikan permasalahan Weighted Strings!
 
 Jawaban:
+
 ![Weighted Strings](assets/weighted_strings.png)
 
 ---
@@ -80,6 +81,7 @@ Soal:
 Buat fungsi yang digunakan untuk menyelesaikan permasalahan Highest Palindrome!
 
 Jawaban:
+
 ![Highest Palindrome](assets/highest_palindrome.png)
 
 ---
